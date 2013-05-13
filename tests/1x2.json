@@ -1,0 +1,17 @@
+{"city": [
+    [{"green": "h",
+      "cars_west": [
+	  {"path": ["right","straight"]},
+	  {"path": ["right","straight"]}
+      ]
+     }
+    ],
+    [{"green": "v",
+      "cars_south": [
+	  {"path": ["left"]},
+	  {"path": ["left"]},
+	  {"path": ["left"]}
+      ]
+     }
+    ]
+]}

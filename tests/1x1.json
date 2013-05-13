@@ -1,0 +1,25 @@
+{"city": [
+    [{"green": "h",
+      "cars_north": [
+	  {"path": ["left"]},
+	  {"path": ["straight"]},
+	  {"path": ["right"]}
+      ],
+      "cars_south": [
+	  {"path": ["left"]},
+	  {"path": ["right"]},
+	  {"path": ["straight"]}
+      ],
+      "cars_east": [
+	  {"path": ["left"]},
+	  {"path": ["left"]},
+	  {"path": ["right"]}
+      ],
+      "cars_west": [
+	  {"path": ["straight"]},
+	  {"path": ["straight"]},
+	  {"path": ["straight"]}
+      ]
+     }
+    ]
+]}

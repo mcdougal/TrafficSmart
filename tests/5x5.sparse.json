@@ -1,0 +1,1151 @@
+{
+    "city": [
+        [
+            {
+                "cars_north": [
+                    {
+                        "path": [
+                            "left", 
+                            "straight", 
+                            "right", 
+                            "right", 
+                            "right", 
+                            "straight"
+                        ]
+                    }, 
+                    {
+                        "path": [
+                            "right"
+                        ]
+                    }
+                ], 
+                "cars_south": [
+                    {
+                        "path": [
+                            "left"
+                        ]
+                    }
+                ], 
+                "cars_west": [
+                    {
+                        "path": [
+                            "straight", 
+                            "right", 
+                            "left", 
+                            "right", 
+                            "left", 
+                            "right", 
+                            "right", 
+                            "straight", 
+                            "left", 
+                            "right", 
+                            "right", 
+                            "straight", 
+                            "left"
+                        ]
+                    }, 
+                    {
+                        "path": [
+                            "straight", 
+                            "right", 
+                            "left", 
+                            "right", 
+                            "left", 
+                            "right", 
+                            "right", 
+                            "straight", 
+                            "straight", 
+                            "right", 
+                            "straight", 
+                            "straight", 
+                            "left"
+                        ]
+                    }
+                ], 
+                "green": "v"
+            }, 
+            {
+                "cars_south": [
+                    {
+                        "path": [
+                            "straight"
+                        ]
+                    }, 
+                    {
+                        "path": [
+                            "straight"
+                        ]
+                    }
+                ], 
+                "cars_west": [
+                    {
+                        "path": [
+                            "right", 
+                            "straight", 
+                            "left", 
+                            "right", 
+                            "straight", 
+                            "left", 
+                            "right"
+                        ]
+                    }, 
+                    {
+                        "path": [
+                            "left"
+                        ]
+                    }
+                ], 
+                "green": "v"
+            }, 
+            {
+                "cars_north": [
+                    {
+                        "path": [
+                            "straight", 
+                            "straight", 
+                            "right", 
+                            "left", 
+                            "left", 
+                            "right", 
+                            "right", 
+                            "left"
+                        ]
+                    }
+                ], 
+                "cars_west": [
+                    {
+                        "path": [
+                            "left"
+                        ]
+                    }, 
+                    {
+                        "path": [
+                            "left"
+                        ]
+                    }
+                ], 
+                "green": "v"
+            }, 
+            {
+                "cars_north": [
+                    {
+                        "path": [
+                            "right", 
+                            "right"
+                        ]
+                    }
+                ], 
+                "cars_south": [
+                    {
+                        "path": [
+                            "right", 
+                            "right", 
+                            "left"
+                        ]
+                    }, 
+                    {
+                        "path": [
+                            "left", 
+                            "left", 
+                            "left", 
+                            "left", 
+                            "left", 
+                            "left", 
+                            "straight", 
+                            "straight", 
+                            "straight", 
+                            "right", 
+                            "right", 
+                            "left", 
+                            "straight"
+                        ]
+                    }
+                ], 
+                "cars_west": [
+                    {
+                        "path": [
+                            "straight", 
+                            "left"
+                        ]
+                    }
+                ], 
+                "green": "v"
+            }, 
+            {
+                "cars_east": [
+                    {
+                        "path": [
+                            "right"
+                        ]
+                    }
+                ], 
+                "cars_south": [
+                    {
+                        "path": [
+                            "straight"
+                        ]
+                    }
+                ], 
+                "cars_west": [
+                    {
+                        "path": [
+                            "left"
+                        ]
+                    }
+                ], 
+                "green": "v"
+            }
+        ], 
+        [
+            {
+                "cars_north": [
+                    {
+                        "path": [
+                            "straight", 
+                            "straight", 
+                            "left", 
+                            "right", 
+                            "right", 
+                            "right", 
+                            "straight", 
+                            "straight", 
+                            "left"
+                        ]
+                    }
+                ], 
+                "cars_south": [
+                    {
+                        "path": [
+                            "right", 
+                            "left", 
+                            "straight"
+                        ]
+                    }, 
+                    {
+                        "path": [
+                            "right", 
+                            "right", 
+                            "right", 
+                            "right", 
+                            "right", 
+                            "straight", 
+                            "straight", 
+                            "straight", 
+                            "left", 
+                            "straight"
+                        ]
+                    }
+                ], 
+                "cars_west": [
+                    {
+                        "path": [
+                            "straight", 
+                            "right", 
+                            "left", 
+                            "right", 
+                            "straight", 
+                            "right", 
+                            "left"
+                        ]
+                    }
+                ], 
+                "green": "v"
+            }, 
+            {
+                "cars_east": [
+                    {
+                        "path": [
+                            "straight", 
+                            "left", 
+                            "right"
+                        ]
+                    }, 
+                    {
+                        "path": [
+                            "straight", 
+                            "left", 
+                            "straight", 
+                            "right"
+                        ]
+                    }
+                ], 
+                "cars_north": [
+                    {
+                        "path": [
+                            "left", 
+                            "right", 
+                            "left", 
+                            "left", 
+                            "straight", 
+                            "straight"
+                        ]
+                    }
+                ], 
+                "cars_south": [
+                    {
+                        "path": [
+                            "right", 
+                            "left", 
+                            "straight"
+                        ]
+                    }
+                ], 
+                "cars_west": [
+                    {
+                        "path": [
+                            "right", 
+                            "left", 
+                            "straight", 
+                            "straight", 
+                            "right", 
+                            "left"
+                        ]
+                    }, 
+                    {
+                        "path": [
+                            "straight", 
+                            "straight", 
+                            "straight", 
+                            "straight"
+                        ]
+                    }
+                ], 
+                "green": "v"
+            }, 
+            {
+                "cars_east": [
+                    {
+                        "path": [
+                            "right", 
+                            "left", 
+                            "straight", 
+                            "straight"
+                        ]
+                    }, 
+                    {
+                        "path": [
+                            "left", 
+                            "left", 
+                            "straight", 
+                            "left", 
+                            "left", 
+                            "straight", 
+                            "straight", 
+                            "left", 
+                            "left", 
+                            "left", 
+                            "left", 
+                            "straight", 
+                            "straight"
+                        ]
+                    }
+                ], 
+                "cars_north": [
+                    {
+                        "path": [
+                            "left", 
+                            "left", 
+                            "right", 
+                            "left"
+                        ]
+                    }, 
+                    {
+                        "path": [
+                            "right", 
+                            "right", 
+                            "left", 
+                            "right"
+                        ]
+                    }
+                ], 
+                "cars_south": [
+                    {
+                        "path": [
+                            "straight", 
+                            "straight"
+                        ]
+                    }
+                ], 
+                "cars_west": [
+                    {
+                        "path": [
+                            "left", 
+                            "straight"
+                        ]
+                    }, 
+                    {
+                        "path": [
+                            "right", 
+                            "right", 
+                            "straight", 
+                            "straight"
+                        ]
+                    }
+                ], 
+                "green": "v"
+            }, 
+            {
+                "cars_east": [
+                    {
+                        "path": [
+                            "left", 
+                            "straight", 
+                            "left", 
+                            "straight"
+                        ]
+                    }
+                ], 
+                "cars_north": [
+                    {
+                        "path": [
+                            "right", 
+                            "left", 
+                            "straight", 
+                            "left", 
+                            "straight", 
+                            "left", 
+                            "straight", 
+                            "left", 
+                            "straight", 
+                            "right", 
+                            "left", 
+                            "straight", 
+                            "right"
+                        ]
+                    }
+                ], 
+                "cars_south": [
+                    {
+                        "path": [
+                            "straight", 
+                            "straight"
+                        ]
+                    }
+                ], 
+                "cars_west": [
+                    {
+                        "path": [
+                            "right", 
+                            "straight", 
+                            "straight", 
+                            "straight"
+                        ]
+                    }, 
+                    {
+                        "path": [
+                            "right", 
+                            "left", 
+                            "left", 
+                            "left", 
+                            "left", 
+                            "right", 
+                            "left", 
+                            "left", 
+                            "straight", 
+                            "left", 
+                            "right"
+                        ]
+                    }
+                ], 
+                "green": "v"
+            }, 
+            {
+                "cars_east": [
+                    {
+                        "path": [
+                            "right", 
+                            "right"
+                        ]
+                    }
+                ], 
+                "cars_north": [
+                    {
+                        "path": [
+                            "straight", 
+                            "right", 
+                            "right", 
+                            "left", 
+                            "right", 
+                            "straight"
+                        ]
+                    }, 
+                    {
+                        "path": [
+                            "right", 
+                            "left", 
+                            "straight", 
+                            "right", 
+                            "right", 
+                            "straight", 
+                            "left", 
+                            "straight", 
+                            "straight"
+                        ]
+                    }
+                ], 
+                "cars_south": [
+                    {
+                        "path": [
+                            "right"
+                        ]
+                    }, 
+                    {
+                        "path": [
+                            "straight", 
+                            "right"
+                        ]
+                    }
+                ], 
+                "green": "v"
+            }
+        ], 
+        [
+            {
+                "cars_east": [
+                    {
+                        "path": [
+                            "straight"
+                        ]
+                    }, 
+                    {
+                        "path": [
+                            "right", 
+                            "straight", 
+                            "straight"
+                        ]
+                    }
+                ], 
+                "cars_south": [
+                    {
+                        "path": [
+                            "right", 
+                            "straight", 
+                            "left", 
+                            "straight", 
+                            "straight"
+                        ]
+                    }
+                ], 
+                "green": "v"
+            }, 
+            {
+                "cars_east": [
+                    {
+                        "path": [
+                            "right", 
+                            "straight", 
+                            "right", 
+                            "left"
+                        ]
+                    }
+                ], 
+                "cars_north": [
+                    {
+                        "path": [
+                            "right", 
+                            "left", 
+                            "left", 
+                            "straight", 
+                            "right", 
+                            "left", 
+                            "left", 
+                            "straight", 
+                            "left", 
+                            "straight", 
+                            "straight", 
+                            "right", 
+                            "left"
+                        ]
+                    }
+                ], 
+                "cars_west": [
+                    {
+                        "path": [
+                            "straight", 
+                            "straight", 
+                            "straight", 
+                            "left", 
+                            "left", 
+                            "right", 
+                            "left", 
+                            "right"
+                        ]
+                    }
+                ], 
+                "green": "v"
+            }, 
+            {
+                "cars_east": [
+                    {
+                        "path": [
+                            "right", 
+                            "left", 
+                            "right", 
+                            "right", 
+                            "right", 
+                            "left", 
+                            "straight", 
+                            "left", 
+                            "left", 
+                            "left", 
+                            "straight", 
+                            "left", 
+                            "left", 
+                            "right"
+                        ]
+                    }
+                ], 
+                "cars_north": [
+                    {
+                        "path": [
+                            "right", 
+                            "left", 
+                            "straight", 
+                            "left", 
+                            "straight", 
+                            "right"
+                        ]
+                    }
+                ], 
+                "cars_south": [
+                    {
+                        "path": [
+                            "left", 
+                            "right", 
+                            "right", 
+                            "right", 
+                            "left", 
+                            "right", 
+                            "left", 
+                            "right", 
+                            "straight"
+                        ]
+                    }
+                ], 
+                "green": "v"
+            }, 
+            {
+                "cars_east": [
+                    {
+                        "path": [
+                            "right", 
+                            "straight", 
+                            "right", 
+                            "straight"
+                        ]
+                    }
+                ], 
+                "cars_south": [
+                    {
+                        "path": [
+                            "left", 
+                            "right", 
+                            "right", 
+                            "right", 
+                            "left", 
+                            "straight"
+                        ]
+                    }, 
+                    {
+                        "path": [
+                            "right", 
+                            "left", 
+                            "straight", 
+                            "right"
+                        ]
+                    }
+                ], 
+                "green": "v"
+            }, 
+            {
+                "cars_east": [
+                    {
+                        "path": [
+                            "left", 
+                            "right", 
+                            "left", 
+                            "right", 
+                            "straight", 
+                            "straight", 
+                            "right", 
+                            "left"
+                        ]
+                    }
+                ], 
+                "cars_north": [
+                    {
+                        "path": [
+                            "straight", 
+                            "left"
+                        ]
+                    }
+                ], 
+                "cars_west": [
+                    {
+                        "path": [
+                            "straight"
+                        ]
+                    }, 
+                    {
+                        "path": [
+                            "straight"
+                        ]
+                    }
+                ], 
+                "green": "v"
+            }
+        ], 
+        [
+            {
+                "cars_east": [
+                    {
+                        "path": [
+                            "right", 
+                            "straight", 
+                            "straight", 
+                            "straight"
+                        ]
+                    }, 
+                    {
+                        "path": [
+                            "right", 
+                            "left"
+                        ]
+                    }
+                ], 
+                "cars_west": [
+                    {
+                        "path": [
+                            "straight", 
+                            "left", 
+                            "right", 
+                            "right", 
+                            "straight", 
+                            "straight"
+                        ]
+                    }, 
+                    {
+                        "path": [
+                            "right", 
+                            "straight"
+                        ]
+                    }
+                ], 
+                "green": "v"
+            }, 
+            {
+                "cars_east": [
+                    {
+                        "path": [
+                            "left", 
+                            "left", 
+                            "right"
+                        ]
+                    }, 
+                    {
+                        "path": [
+                            "left", 
+                            "right", 
+                            "left"
+                        ]
+                    }
+                ], 
+                "cars_north": [
+                    {
+                        "path": [
+                            "right", 
+                            "straight"
+                        ]
+                    }
+                ], 
+                "cars_south": [
+                    {
+                        "path": [
+                            "left", 
+                            "left", 
+                            "straight"
+                        ]
+                    }, 
+                    {
+                        "path": [
+                            "left", 
+                            "straight"
+                        ]
+                    }
+                ], 
+                "green": "v"
+            }, 
+            {
+                "cars_east": [
+                    {
+                        "path": [
+                            "left", 
+                            "right", 
+                            "straight", 
+                            "left"
+                        ]
+                    }, 
+                    {
+                        "path": [
+                            "straight", 
+                            "right", 
+                            "right", 
+                            "left", 
+                            "right", 
+                            "left", 
+                            "left", 
+                            "right"
+                        ]
+                    }
+                ], 
+                "cars_south": [
+                    {
+                        "path": [
+                            "right", 
+                            "left", 
+                            "right", 
+                            "left", 
+                            "left", 
+                            "left", 
+                            "left", 
+                            "straight"
+                        ]
+                    }, 
+                    {
+                        "path": [
+                            "straight", 
+                            "right", 
+                            "right", 
+                            "left", 
+                            "left", 
+                            "right"
+                        ]
+                    }
+                ], 
+                "green": "v"
+            }, 
+            {
+                "cars_east": [
+                    {
+                        "path": [
+                            "left", 
+                            "left", 
+                            "straight"
+                        ]
+                    }
+                ], 
+                "cars_west": [
+                    {
+                        "path": [
+                            "right", 
+                            "right", 
+                            "right", 
+                            "right", 
+                            "straight", 
+                            "straight"
+                        ]
+                    }, 
+                    {
+                        "path": [
+                            "straight", 
+                            "straight"
+                        ]
+                    }
+                ], 
+                "green": "v"
+            }, 
+            {
+                "cars_east": [
+                    {
+                        "path": [
+                            "left", 
+                            "left"
+                        ]
+                    }, 
+                    {
+                        "path": [
+                            "right", 
+                            "left", 
+                            "left", 
+                            "left", 
+                            "right", 
+                            "left"
+                        ]
+                    }
+                ], 
+                "cars_north": [
+                    {
+                        "path": [
+                            "left"
+                        ]
+                    }
+                ], 
+                "cars_west": [
+                    {
+                        "path": [
+                            "straight"
+                        ]
+                    }
+                ], 
+                "green": "v"
+            }
+        ], 
+        [
+            {
+                "cars_east": [
+                    {
+                        "path": [
+                            "left"
+                        ]
+                    }, 
+                    {
+                        "path": [
+                            "straight"
+                        ]
+                    }
+                ], 
+                "cars_north": [
+                    {
+                        "path": [
+                            "left", 
+                            "left", 
+                            "right", 
+                            "straight", 
+                            "right", 
+                            "right", 
+                            "left"
+                        ]
+                    }, 
+                    {
+                        "path": [
+                            "right"
+                        ]
+                    }
+                ], 
+                "cars_south": [
+                    {
+                        "path": [
+                            "right", 
+                            "right"
+                        ]
+                    }, 
+                    {
+                        "path": [
+                            "left"
+                        ]
+                    }
+                ], 
+                "green": "v"
+            }, 
+            {
+                "cars_north": [
+                    {
+                        "path": [
+                            "straight"
+                        ]
+                    }
+                ], 
+                "cars_south": [
+                    {
+                        "path": [
+                            "right", 
+                            "right"
+                        ]
+                    }, 
+                    {
+                        "path": [
+                            "straight", 
+                            "left", 
+                            "straight"
+                        ]
+                    }
+                ], 
+                "cars_west": [
+                    {
+                        "path": [
+                            "right"
+                        ]
+                    }, 
+                    {
+                        "path": [
+                            "straight", 
+                            "right"
+                        ]
+                    }
+                ], 
+                "green": "v"
+            }, 
+            {
+                "cars_east": [
+                    {
+                        "path": [
+                            "straight", 
+                            "right", 
+                            "straight", 
+                            "straight", 
+                            "straight", 
+                            "left", 
+                            "right"
+                        ]
+                    }, 
+                    {
+                        "path": [
+                            "straight", 
+                            "right", 
+                            "right", 
+                            "left", 
+                            "left", 
+                            "left", 
+                            "left", 
+                            "straight", 
+                            "left", 
+                            "right", 
+                            "right", 
+                            "straight", 
+                            "straight"
+                        ]
+                    }
+                ], 
+                "cars_north": [
+                    {
+                        "path": [
+                            "left", 
+                            "straight", 
+                            "straight"
+                        ]
+                    }, 
+                    {
+                        "path": [
+                            "left", 
+                            "left", 
+                            "left", 
+                            "straight", 
+                            "straight", 
+                            "straight"
+                        ]
+                    }
+                ], 
+                "cars_south": [
+                    {
+                        "path": [
+                            "left", 
+                            "straight", 
+                            "straight"
+                        ]
+                    }, 
+                    {
+                        "path": [
+                            "straight", 
+                            "right", 
+                            "left", 
+                            "straight", 
+                            "straight", 
+                            "straight"
+                        ]
+                    }
+                ], 
+                "cars_west": [
+                    {
+                        "path": [
+                            "straight", 
+                            "straight", 
+                            "straight"
+                        ]
+                    }, 
+                    {
+                        "path": [
+                            "right"
+                        ]
+                    }
+                ], 
+                "green": "v"
+            }, 
+            {
+                "cars_east": [
+                    {
+                        "path": [
+                            "right", 
+                            "right", 
+                            "left", 
+                            "straight", 
+                            "left", 
+                            "right", 
+                            "straight"
+                        ]
+                    }
+                ], 
+                "cars_south": [
+                    {
+                        "path": [
+                            "right", 
+                            "straight"
+                        ]
+                    }, 
+                    {
+                        "path": [
+                            "right", 
+                            "straight"
+                        ]
+                    }
+                ], 
+                "cars_west": [
+                    {
+                        "path": [
+                            "left", 
+                            "right", 
+                            "left", 
+                            "straight", 
+                            "left", 
+                            "left", 
+                            "right", 
+                            "right", 
+                            "left", 
+                            "right", 
+                            "right", 
+                            "left"
+                        ]
+                    }, 
+                    {
+                        "path": [
+                            "straight", 
+                            "straight"
+                        ]
+                    }
+                ], 
+                "green": "v"
+            }, 
+            {
+                "cars_east": [
+                    {
+                        "path": [
+                            "straight", 
+                            "straight", 
+                            "left"
+                        ]
+                    }, 
+                    {
+                        "path": [
+                            "left"
+                        ]
+                    }
+                ], 
+                "cars_west": [
+                    {
+                        "path": [
+                            "left", 
+                            "straight", 
+                            "left", 
+                            "straight", 
+                            "right", 
+                            "straight", 
+                            "left", 
+                            "straight", 
+                            "right"
+                        ]
+                    }
+                ], 
+                "green": "v"
+            }
+        ]
+    ]
+}

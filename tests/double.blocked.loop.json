@@ -1,0 +1,38 @@
+{"city": [
+    [{"green": "h",
+      "cars_east": [
+	  {"path": ["left","straight"]},
+	  {"path": ["straight"]},
+	  {"path": ["straight"]}
+      ]
+     },
+     {"green": "v",
+      "cars_south": [
+	  {"path": ["left","straight"]},
+	  {"path": ["straight"]},
+	  {"path": ["straight"]}
+      ]
+     }
+    ],
+    [{"green": "v",
+      "cars_north": [
+	  {"path": ["left","straight"]},
+	  {"path": ["straight"]},
+	  {"path": ["straight"]}
+      ],
+      "cars_south": [
+	  {"path": ["right", "straight"]}
+      ]
+     },
+     {"green": "h",
+      "cars_west": [
+	  {"path": ["left","straight"]},
+	  {"path": ["straight"]},
+	  {"path": ["straight"]}
+      ],
+      "cars_east": [
+	  {"path": ["right", "straight"]}
+      ]
+     }
+    ]
+]}

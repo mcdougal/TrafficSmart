@@ -1,0 +1,135 @@
+<style>
+  body {
+    font-family: Arial;
+  }
+  canvas {
+    border:1px solid #000000;
+    float: left;
+  }
+  #tooltip-container {
+    float: left;
+    height: 100%;
+    width: 400px;
+  }
+  #cycle-tooltip {
+    padding-left: 9px;
+    padding-top: 23px;
+    width: 200px;
+  }
+  #cycle-label {
+    font-size: 25px;
+  }
+  #time-tooltip {
+    padding-left: 9px;
+    padding-top: 12px;
+    width: 200px;
+  }
+  #time-label {
+    color: #666;
+    font-size: 17px;
+  }
+  #frame-tooltip {
+    padding-bottom: 90px;
+    padding-left: 9px;
+    padding-top: 11px;
+    width: 200px;
+  }
+  #frame-label {
+    color: #666;
+    font-size: 17px;
+  }
+  .key-control {
+    padding-left: 9px;
+    padding-top: 7px;
+  }
+  .control-key {
+    color: #999;
+    margin-right: 6px;
+  }
+  .control-result {
+  }
+  #delay-tooltip {
+    left: 694px;
+    position: absolute;
+    top: 583px;
+  }
+  #delay-label {
+    color: #666;
+    font-size: 17px;
+  }
+  #frame-select-box {
+    border: 5px solid #eee;
+    display: none;
+    height: 25px;
+    left: 611px;
+    position: absolute;
+    top: 93px;
+    width: 130px;
+  }
+  #frame-select-txt {
+    color: #f00;
+    display: none;
+    left: 759px;
+    position: absolute;
+    top: 101px;
+  }
+</style>
+
+<canvas id="canvas" width="675" height="600"></canvas>
+<div id="tooltip-container">
+  <div id="cycle-tooltip">
+    <span id="cycle-label">
+      Light Cycle
+    </span>
+  </div>
+  <div id="time-tooltip">
+    <span id="time-label">
+      Sub Cycle
+    </span>
+  </div>
+  <div id="frame-select-box"></div>
+  <span id="frame-select-txt">
+    Type frame number. Press Enter when done.
+  </span>
+  <div id="frame-tooltip">
+    <span id="frame-label">
+      Frame
+    </span>
+  </div>
+  <div class="key-control">
+    <span class="control-key">o/p</span>
+    <span class="control-result">previous/next frame</span>
+  </div>
+  <div class="key-control">
+    <span class="control-key">k/l</span>
+    <span class="control-result">previous/next light cycle</span>
+  </div>
+  <div class="key-control">
+    <span class="control-key">n/m</span>
+    <span class="control-result">first/last frame</span>
+  </div>
+  <div class="key-control">
+    <span class="control-key">spacebar</span>
+    <span class="control-result">play/pause</span>
+  </div>
+  <div class="key-control">
+    <span class="control-key">[ / ]</span>
+    <span class="control-result">reduce/increase delay</span>
+  </div>
+  <div class="key-control">
+    <span class="control-key">j</span>
+    <span class="control-result">jump to frame</span>
+  </div>
+  <div id="delay-tooltip">
+    <span id="delay-label">
+      Delay (milliseconds)
+    </span>
+  </div>
+<div>
+
+<script src="lib/jquery-1.9.1.min.js"></script>
+<script src="settings.js"></script>
+<script src="canvas.js"></script>
+<script src="nav.js"></script>
+<script src="city.js"></script>
+<script src="data.js"></script>
